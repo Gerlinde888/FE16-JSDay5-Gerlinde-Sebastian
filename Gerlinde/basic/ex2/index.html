@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>JSON example</title>
+
+</head>
+
+<body>
+
+  <h1>Meals</h1 >
+
+  <div id="results" ></div>
+
+  <script src="meals.json" ></script>
+
+  <script>
+
+    let mydata = JSON.parse(meals); // convert string into an object
+
+    console.log(mydata); // prints converted object into the console
+
+    /* Prints data from Object1 */
+
+    document.getElementById('results'). innerHTML += "My favorite sandwich is a  " + mydata[0].sandwich + " which has approximately " + mydata[0].calories + " calories, along with it I enjoy eating " + mydata[1].fries_size + " which have about " + mydata[1].calories + " calories." +
+
+      "<hr>";
+
+    /* Prints data from Object2 */
+
+
+  </script>
+
+</body>
+
+</html>

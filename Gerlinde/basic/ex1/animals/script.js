@@ -19,7 +19,7 @@ const listContainer = document.querySelector(".container-animals");
 printCards = () => {
   listContainer.innerHTML = "";
   animalsList.forEach((animal) => {
-    listContainer.innerHTML += ` <div class="col-4">
+    listContainer.innerHTML += ` <div class="col-3">
       <div class="card" style="width: 18rem">
         <img src="${animal.image}" class="card-img-top" alt="..." />
         <div class="card-body">
