@@ -1,0 +1,92 @@
+let employees = `[
+    {
+        "UniqueID": "1",
+        "FirstName": "Marry",
+        "LastName": "Doe",
+        "EmailAddress": "marry@doe.com",
+        "JobTitle": "Boss",
+        "Salary": "10000 €",
+        "image": "https://picsum.photos/id/1001/200/300"
+    }, 
+    {
+        "UniqueID": "2",
+        "FirstName": "John",
+        "LastName": "Doe",
+        "EmailAddress": "john@doe.com",
+        "JobTitle": "Secretar",
+        "Salary": "3000 €",
+        "image": "https://picsum.photos/id/1002/200/300"
+    }, 
+    {
+    "UniqueID": "3",
+    "FirstName": "Lisa",
+    "LastName": "Doe",
+    "EmailAddress": "lisa@doe.com",
+    "JobTitle": "Designer",
+    "Salary": "5000 €",
+    "image": "https://picsum.photos/id/1003/200/300"
+},
+{
+    "UniqueID": "4",
+    "FirstName": "Marry",
+    "LastName": "Doe",
+    "EmailAddress": "marry@doe.com",
+    "JobTitle": "Boss",
+    "Salary": "10000 €",
+    "image": "https://picsum.photos/id/1004/200/300"
+}, 
+{
+    "UniqueID": "5",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "EmailAddress": "john@doe.com",
+    "JobTitle": "Secretar",
+    "Salary": "3000 €",
+    "image": "https://picsum.photos/id/1005/200/300"
+}, 
+{
+"UniqueID": "6",
+"FirstName": "Lisa",
+"LastName": "Doe",
+"EmailAddress": "lisa@doe.com",
+"JobTitle": "Designer",
+"Salary": "5000 €",
+"image": "https://picsum.photos/id/1006/200/300"
+},
+{
+    "UniqueID": "7",
+    "FirstName": "Marry",
+    "LastName": "Doe",
+    "EmailAddress": "marry@doe.com",
+    "JobTitle": "Boss",
+    "Salary": "10000 €",
+    "image": "https://picsum.photos/id/1011/200/300"
+}, 
+{
+    "UniqueID": "8",
+    "FirstName": "John",
+    "LastName": "Doe",
+    "EmailAddress": "john@doe.com",
+    "JobTitle": "Secretar",
+    "Salary": "3000 €",
+    "image": "https://picsum.photos/id/1019/200/300"
+}, 
+{
+"UniqueID": "9",
+"FirstName": "Lisa",
+"LastName": "Doe",
+"EmailAddress": "lisa@doe.com",
+"JobTitle": "Designer",
+"Salary": "5000 €",
+"image": "https://picsum.photos/id/1009/200/300"
+},
+{
+    "UniqueID": "10",
+    "FirstName": "Lisa",
+    "LastName": "Doe",
+    "EmailAddress": "lisa@doe.com",
+    "JobTitle": "Designer",
+    "Salary": "5000 €",
+    "image": "https://picsum.photos/id/1010/200/300"
+    }
+]`
