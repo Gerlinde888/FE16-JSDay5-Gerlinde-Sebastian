@@ -1,0 +1,16 @@
+let cars=`[{
+        "id": "1",
+        "name": "Fiat Panda",
+        "image": "https://www.iphpbb3.com/forum/file/57860722nx58/4397_2019091219_canvas.png",
+        "likes":0
+    },{
+        "id":"2",
+        "name":"Fiat Punto",
+        "image":"https://a.d-cd.net/9790b8s-960.jpg",
+         "likes":0 
+    },{
+        "id":"3",
+        "name":"Renault Clio",
+        "image":"https://imganuncios.mitula.net/web/renault_clio_2011_benzin_renault_clio_tce_100_grandtour_nightday_tuvneu_pano_navi_xenon_3300020645965862311.jpg",
+        "likes":0
+    }]`
